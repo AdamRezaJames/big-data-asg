@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+*.part
+results/
+.env
+/data/silver/batas_kelurahan_dki.geojson
+/data/silver/road_nodes.csv
+/data/silver/road_segments.csv
+/data/silver/road_edges.csv

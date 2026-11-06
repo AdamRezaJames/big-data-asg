@@ -1,0 +1,111 @@
+{
+  "lambda": 2,
+  "points": [
+    {
+      "kelurahan": "CAWANG",
+      "coordinate": [
+        106.86787676141728,
+        -6.250712399024809
+      ],
+      "snapped_osm_node": 1138822356,
+      "snap_distance_m": 17.894130658234726,
+      "role": "simulated_location_not_actual_hub_or_customer"
+    },
+    {
+      "kelurahan": "BIDARA CINA",
+      "coordinate": [
+        106.86809787296343,
+        -6.234707075780902
+      ],
+      "snapped_osm_node": 7281568369,
+      "snap_distance_m": 11.7346518539918,
+      "role": "simulated_location_not_actual_hub_or_customer"
+    },
+    {
+      "kelurahan": "KAMPUNG MELAYU",
+      "coordinate": [
+        106.8629517119025,
+        -6.218557536193847
+      ],
+      "snapped_osm_node": 7244387068,
+      "snap_distance_m": 15.003224298784803,
+      "role": "simulated_location_not_actual_hub_or_customer"
+    }
+  ],
+  "routes": [
+    {
+      "destination": "BIDARA CINA",
+      "method": "distance_baseline",
+      "status": "computed",
+      "distance_m": 3072.248178603403,
+      "exposure_weighted_m": 1755.570387773373,
+      "unknown_exposure_length_m": 0,
+      "penalty_cost_m": 6583.388954150149,
+      "nodes": 113,
+      "conservative_penalty_cost_m": 6583.388954150149
+    },
+    {
+      "destination": "BIDARA CINA",
+      "method": "historical_exposure_penalty_lambda_2",
+      "status": "computed",
+      "distance_m": 3101.59862075476,
+      "exposure_weighted_m": 1318.081146127841,
+      "unknown_exposure_length_m": 0,
+      "penalty_cost_m": 5737.760913010442,
+      "nodes": 152,
+      "conservative_penalty_cost_m": 5737.760913010442
+    },
+    {
+      "destination": "BIDARA CINA",
+      "method": "historical_exposure_unknown_penalty_1",
+      "status": "computed",
+      "distance_m": 3101.59862075476,
+      "exposure_weighted_m": 1318.081146127841,
+      "unknown_exposure_length_m": 0,
+      "penalty_cost_m": 5737.760913010442,
+      "nodes": 152,
+      "conservative_penalty_cost_m": 5737.760913010442
+    },
+    {
+      "destination": "KAMPUNG MELAYU",
+      "method": "distance_baseline",
+      "status": "computed",
+      "distance_m": 4383.119903447678,
+      "exposure_weighted_m": 2913.4159991321094,
+      "unknown_exposure_length_m": 0,
+      "penalty_cost_m": 10209.951901711896,
+      "nodes": 171,
+      "conservative_penalty_cost_m": 10209.951901711896
+    },
+    {
+      "destination": "KAMPUNG MELAYU",
+      "method": "historical_exposure_penalty_lambda_2",
+      "status": "computed",
+      "distance_m": 5258.796194519878,
+      "exposure_weighted_m": 2132.789339640601,
+      "unknown_exposure_length_m": 623.6222073383594,
+      "penalty_cost_m": 9524.37487380108,
+      "nodes": 302,
+      "conservative_penalty_cost_m": 10771.6192884778
+    },
+    {
+      "destination": "KAMPUNG MELAYU",
+      "method": "historical_exposure_unknown_penalty_1",
+      "status": "computed",
+      "distance_m": 4883.140728979466,
+      "exposure_weighted_m": 2652.9898118185997,
+      "unknown_exposure_length_m": 0,
+      "penalty_cost_m": 10189.120352616665,
+      "nodes": 208,
+      "conservative_penalty_cost_m": 10189.120352616665
+    }
+  ],
+  "limitations": [
+    "2020 flood versus 2026 roads",
+    "kelurahan exposure proxy is not road inundation",
+    "turn restriction relations not applied",
+    "no traffic, live closures, elevation, vehicle width, or field access validation",
+    "unknown exposure treated as zero penalty, not proven safe",
+    "nearest road vertex used without connector routing"
+  ]
+}

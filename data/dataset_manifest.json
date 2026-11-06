@@ -1,0 +1,78 @@
+[
+  {
+    "file": "data/silver/banjir_jakarta_timur_2020.csv",
+    "distribution_file": "data/silver/banjir_jakarta_timur_2020.csv",
+    "compression": "none",
+    "bytes": 26848,
+    "sha256": "793490e5f5c3cb336f18acf4b8e26f9a27fb2a7c66a7cfd63ff47ed52f002159",
+    "distribution_bytes": 26848,
+    "distribution_sha256": "793490e5f5c3cb336f18acf4b8e26f9a27fb2a7c66a7cfd63ff47ed52f002159",
+    "source_url": "https://data.go.id/dataset/dataset/data-kejadian-bencana-banjir-di-provinsi-dki-jakarta-tahun-2020"
+  },
+  {
+    "file": "data/silver/batas_kelurahan_dki.geojson",
+    "distribution_file": "data/silver/batas_kelurahan_dki.geojson.gz",
+    "compression": "gzip",
+    "bytes": 22889546,
+    "sha256": "57e71a598ef8b676dcd210630224553223b1536c53f39f9dd6d63db359b01987",
+    "distribution_bytes": 3660743,
+    "distribution_sha256": "de0e2f05769c6ee24117793e333cce48e6bf4d1c2a0cdb7fb9236f6c5bed5d20",
+    "source_url": "https://gis-dpmptsp.jakarta.go.id/arcgis/rest/services/Hosted/Batas_Administrasi_Kelurahan_DKI_Jakarta/FeatureServer/85"
+  },
+  {
+    "file": "data/silver/road_nodes.csv",
+    "distribution_file": "data/silver/road_nodes.csv.gz",
+    "compression": "gzip",
+    "bytes": 5111074,
+    "sha256": "78d0c692b00883caa7b3341201e943c1be66bf29a8b98833cb9eb7ccea2bc172",
+    "distribution_bytes": 1582851,
+    "distribution_sha256": "86f70d9585ef72d8f511e1a4e3bea52037323e8bbe255601ef3c9c904db760ae",
+    "attribution": "Copyright OpenStreetMap contributors. Derived road database under ODbL 1.0.",
+    "source_url": "https://download.openstreetmap.fr/extracts/asia/indonesia/jakarta-latest.osm.pbf",
+    "license_url": "https://www.openstreetmap.org/copyright"
+  },
+  {
+    "file": "data/silver/road_segments.csv",
+    "distribution_file": "data/silver/road_segments.csv.gz",
+    "compression": "gzip",
+    "bytes": 17350295,
+    "sha256": "02199f3ce2850812185f942c24bdcc77a1fa1279cba3cb4311aa314f4baa478c",
+    "distribution_bytes": 3728830,
+    "distribution_sha256": "774ef752531e3c5b068ced02a7ca18de65f718b73e9df5a0d9d609b1ef2e6c93",
+    "attribution": "Copyright OpenStreetMap contributors. Derived road database under ODbL 1.0.",
+    "source_url": "https://download.openstreetmap.fr/extracts/asia/indonesia/jakarta-latest.osm.pbf",
+    "license_url": "https://www.openstreetmap.org/copyright"
+  },
+  {
+    "file": "data/silver/road_edges.csv",
+    "distribution_file": "data/silver/road_edges.csv.gz",
+    "compression": "gzip",
+    "bytes": 42560671,
+    "sha256": "4c6a1108edebca355fc89cf11cac1f06435d7abf2e876db3f015ad93eca312b5",
+    "distribution_bytes": 7864190,
+    "distribution_sha256": "98cb7341de3304fd0e5d408ee792536161ec814cb18d91f4a3f3783c5299ca37",
+    "attribution": "Copyright OpenStreetMap contributors. Derived road database under ODbL 1.0.",
+    "source_url": "https://download.openstreetmap.fr/extracts/asia/indonesia/jakarta-latest.osm.pbf",
+    "license_url": "https://www.openstreetmap.org/copyright"
+  },
+  {
+    "file": "data/gold/paparan_historis_kelurahan.csv",
+    "distribution_file": "data/gold/paparan_historis_kelurahan.csv",
+    "compression": "none",
+    "bytes": 6040,
+    "sha256": "db4c5cb12673abe20e8b6f7b8015a73788d7dbe26a0b65b305810b61a3875a34",
+    "distribution_bytes": 6040,
+    "distribution_sha256": "db4c5cb12673abe20e8b6f7b8015a73788d7dbe26a0b65b305810b61a3875a34",
+    "source_url": "https://data.go.id/dataset/dataset/data-kejadian-bencana-banjir-di-provinsi-dki-jakarta-tahun-2020"
+  },
+  {
+    "file": "data/gold/route_comparison.json",
+    "distribution_file": "data/gold/route_comparison.json",
+    "compression": "none",
+    "bytes": 3609,
+    "sha256": "6c4a93613f67ea289b7a18b70ae36a395bb693c2e0a7e1d2a2df487bd57f5957",
+    "distribution_bytes": 3609,
+    "distribution_sha256": "6c4a93613f67ea289b7a18b70ae36a395bb693c2e0a7e1d2a2df487bd57f5957",
+    "source_url": "https://data.go.id/dataset/dataset/data-kejadian-bencana-banjir-di-provinsi-dki-jakarta-tahun-2020"
+  }
+]

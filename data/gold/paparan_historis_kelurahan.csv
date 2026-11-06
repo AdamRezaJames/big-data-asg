@@ -1,0 +1,62 @@
+kelurahan_id,kelurahan,reported_months,source_records,max_reported_depth_cm,exposure_index,interpretation
+3175011001,PISANGAN BARU,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175011002,UTAN KAYU UTARA,1,1,60,0.17142857142857143,historical_kelurahan_proxy_not_flood_probability
+3175011004,PAL MERIAM,1,1,60,0.17142857142857143,historical_kelurahan_proxy_not_flood_probability
+3175011005,KEBON MANGGIS,3,3,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175011006,UTAN KAYU SELATAN,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175021001,PULO GADUNG,1,1,100,0.2857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175021002,PISANGAN TIMUR,1,1,100,0.2857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175021003,CIPINANG,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175021004,JATINEGARA KAUM,1,1,40,0.11428571428571428,historical_kelurahan_proxy_not_flood_probability
+3175021005,RAWAMANGUN,1,1,30,0.08571428571428572,historical_kelurahan_proxy_not_flood_probability
+3175021006,KAYU PUTIH,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175021007,JATI,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175031001,KAMPUNG MELAYU,6,6,350,1.0,historical_kelurahan_proxy_not_flood_probability
+3175031002,BIDARA CINA,6,6,200,0.5714285714285714,historical_kelurahan_proxy_not_flood_probability
+3175031004,RAWA BUNGA,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175031005,CIPINANG CEMPEDAK,2,2,50,0.14285714285714285,historical_kelurahan_proxy_not_flood_probability
+3175031006,CIPINANG MUARA,4,4,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175031007,CIPINANG BESAR SELATAN,1,1,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175031008,CIPINANG BESAR UTARA,1,1,20,0.05714285714285714,historical_kelurahan_proxy_not_flood_probability
+3175041001,KRAMAT JATI,1,1,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175041002,KAMPUNG TENGAH,4,4,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175041003,DUKUH,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175041004,BATU AMPAR,4,4,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175041005,BALE KAMBANG,5,5,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175041006,CILILITAN,6,6,200,0.5714285714285714,historical_kelurahan_proxy_not_flood_probability
+3175041007,CAWANG,6,6,200,0.5714285714285714,historical_kelurahan_proxy_not_flood_probability
+3175051001,GEDONG,1,1,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175051003,CIJANTUNG,1,1,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175051004,KALISARI,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175051005,PEKAYON,5,5,100,0.2857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175061001,JATINEGARA,2,2,60,0.17142857142857143,historical_kelurahan_proxy_not_flood_probability
+3175061002,RAWA TERATE,3,3,250,0.7142857142857143,historical_kelurahan_proxy_not_flood_probability
+3175061003,PENGGILINGAN,2,2,50,0.14285714285714285,historical_kelurahan_proxy_not_flood_probability
+3175061004,CAKUNG TIMUR,3,3,100,0.2857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175061005,PULO GEBANG,1,1,90,0.2571428571428571,historical_kelurahan_proxy_not_flood_probability
+3175061006,UJUNG MENTENG,1,1,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175061007,CAKUNG BARAT,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175071001,DUREN SAWIT,2,2,50,0.14285714285714285,historical_kelurahan_proxy_not_flood_probability
+3175071002,PONDOK BAMBU,3,3,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175071003,KLENDER,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175071004,PONDOK KELAPA,2,2,170,0.4857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175071005,MALAKA SARI,1,1,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175071006,MALAKA JAYA,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175071007,PONDOK KOPI,2,2,60,0.17142857142857143,historical_kelurahan_proxy_not_flood_probability
+3175081001,MAKASAR,4,4,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175081002,PINANG RANTI,4,4,100,0.2857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175081003,KEBON PALA,2,2,120,0.34285714285714286,historical_kelurahan_proxy_not_flood_probability
+3175081004,HALIM PERDANA KUSUMAH,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175081005,CIPINANG MELAYU,4,4,220,0.6285714285714286,historical_kelurahan_proxy_not_flood_probability
+3175091001,CIRACAS,3,3,50,0.14285714285714285,historical_kelurahan_proxy_not_flood_probability
+3175091002,CIBUBUR,4,4,100,0.2857142857142857,historical_kelurahan_proxy_not_flood_probability
+3175091003,KELAPA DUA WETAN,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175091004,SUSUKAN,2,2,70,0.2,historical_kelurahan_proxy_not_flood_probability
+3175091005,RAMBUTAN,4,4,200,0.5714285714285714,historical_kelurahan_proxy_not_flood_probability
+3175101001,CIPAYUNG,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175101002,CILANGKAP,3,3,50,0.14285714285714285,historical_kelurahan_proxy_not_flood_probability
+3175101003,PONDOK RANGGON,1,1,80,0.22857142857142856,historical_kelurahan_proxy_not_flood_probability
+3175101005,SETU,2,2,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175101006,BAMBU APUS,3,3,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175101007,LUBANG BUAYA,4,4,150,0.42857142857142855,historical_kelurahan_proxy_not_flood_probability
+3175101008,CEGER,1,1,70,0.2,historical_kelurahan_proxy_not_flood_probability
